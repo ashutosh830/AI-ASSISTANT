@@ -1,0 +1,15 @@
+# Virtual environment
+myenv/
+
+# Generated audio
+downloades/
+
+# Chroma DB
+vector_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
